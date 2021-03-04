@@ -12,7 +12,7 @@ var polygon,slingshot;
 
 
 function setup(){
-    var canvas = createCanvas(900,400);
+    var canvas = createCanvas(800,700);
     engine = Engine.create();
     world = engine.world;
 
